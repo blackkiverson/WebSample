@@ -1,2 +1,0 @@
-# WebSample
-GitHub Pages
